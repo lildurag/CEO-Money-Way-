@@ -1,12 +1,10 @@
 ## Welcome to ICY RECORDS 
 
-You can use the [editor on GitHub](https://github.com/lildurag/CEO-Money-Way-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can check out my soundcloud with [this link](https://soundcloud.com/user-337384380) 
+check out the his single [sauce](https://soundcloud.com/user-337384380/sauce-ft-lil-xert) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### LIL DURAG
+BEST SOUNDCLOUD ARTIST 
 
 ```markdown
 Syntax highlighted code block
